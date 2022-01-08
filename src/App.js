@@ -1,6 +1,6 @@
 import "./App.css";
 import Section from "./component/Section";
-import data from "./data.json";
+
 // console.log(data);
 
 function App() {
